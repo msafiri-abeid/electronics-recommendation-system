@@ -1,1 +1,0 @@
-web: gunicorn laptop_recommendation_project.wsgi
