@@ -1,0 +1,1 @@
+web gunicorn gadget-guru.wsgi:application --log-file -
