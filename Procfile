@@ -1,1 +1,1 @@
-web: gunicorn laptop_recommendation_project.wsgi --log-file -
+web: cd Django/laptop_recommendation_project && gunicorn laptop_recommendation_project.wsgi --log-file -
