@@ -1,0 +1,6 @@
+{
+    "scripts": {
+      "postinstall": "cd React/laptop-recommendation-app && npm install && npm run build"
+    }
+  }
+  
